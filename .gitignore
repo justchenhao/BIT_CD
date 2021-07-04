@@ -1,15 +1,6 @@
 .DS_Store
 __pycache__
 .idea
-checkpoints/
-checkpoints2/
-checkpoints*/
-results/
-build/
-tmp/
-vis/
-*.png
-*.jpg
 *.pth
 */*.pth
 */*/*.pth
