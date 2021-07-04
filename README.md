@@ -2,17 +2,19 @@
 
 Here, we provide the pytorch implementation of the paper: Remote Sensing Image Change Detection with Transformers.
 
-![image-20210228153142126](images\pipeline.png)
+![image-20210228153142126](./images/pipeline.png)
 
 Code is coming soon~~
 
 ## Requirements
 
+```
 Python 3.6
 pytorch 1.6.0
 torchvision 0.7.0
 einops  0.3.0
 pthflops
+```
 
 ## Installation
 
@@ -26,8 +28,6 @@ cd BIT_CD
 ## Quick Start
 
 ## Train
-
-
 
 ## Test
 
