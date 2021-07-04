@@ -4,8 +4,6 @@ __pycache__
 *.pth
 */*.pth
 */*/*.pth
-*/*.png
-*/*/*.png
 torch.egg-info/
 */**/__pycache__
 docs/src/**/*
