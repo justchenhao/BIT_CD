@@ -16,4 +16,3 @@ docs/src/**/*
 */**/*.so*
 */**/*.dylib*
 *~
-models/pretrain
