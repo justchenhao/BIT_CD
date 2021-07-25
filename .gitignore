@@ -16,3 +16,6 @@ docs/src/**/*
 */**/*.so*
 */**/*.dylib*
 *~
+*.pt
+*.pth
+checkpoints
